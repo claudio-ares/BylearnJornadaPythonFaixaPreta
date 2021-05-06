@@ -91,3 +91,8 @@ while True:
         break
     else:
         print('Opcão inválida!')
+        print('''
+                [0]PEDRA
+                [1]PAPEL
+                [2]TESOURA
+                ''')
